@@ -6,6 +6,15 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera 
+{
+    background-color: darkcyan;
+    color: floralwhite;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    
+}
 #container 
 {
     width: 70%;
@@ -13,6 +22,13 @@ body{
     text-align: left;
     border: 1px solid rgb(124, 18, 18);
     margin: 0 auto;
+}
+#container #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
 }
 #container h1 
 {
